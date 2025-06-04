@@ -1,12 +1,8 @@
 ---
-title: "Hi, I'm Zedong Peng"
+title: "Home"
 ---
-
-
-
-<img src="/images/avatar.jpg" width="200" alt="Zedong Peng" style="float: left; margin-right: 20px;" />
-
-## Hi, I'm Peng Zedong (彭 则栋)!
+<!-- <img src="/images/avatar.jpg" width="200" alt="Zedong Peng" style="float: left; margin-right: 20px;" /> -->
+### Hi, I'm Zedong!
 
 Bachelor's in [EE](https://ee.sjtu.edu.cn) @ [SJTU](http://en.sjtu.edu.cn/) (2020-2024).
 
@@ -18,7 +14,7 @@ Check out my [CV](/pdf/cv.pdf), [Undergraduate Transcript](/pdf/transcript.pdf).
 
 ---
 
-Connect: 
+**Connect**: 
 
 - Email: `zedongpeng1 [at] gmail [dot] com`
 - [GitHub](https://github.com/zedong-peng) 
