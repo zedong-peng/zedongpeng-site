@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Zedong Peng</title>
+    <link>http://localhost:1313/categories/notes/</link>
+    <description>Recent content in Notes on Zedong Peng</description>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 15:14:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Proofs, Arguments, and Zero-Knowledge</title>
+      <link>http://localhost:1313/blog/notes-on-proofs-arguments-and-zero-knowledge-unfinished/</link>
+      <pubDate>Sat, 08 Jul 2023 15:14:48 +0000</pubDate>
+      <guid>http://localhost:1313/blog/notes-on-proofs-arguments-and-zero-knowledge-unfinished/</guid>
+      <description>&lt;p&gt;Tags:machine learning, security, privacy, and mobile computing&lt;/p&gt;
+&lt;p&gt;Guided by &lt;a href=&#34;http://xiangliyao.cn&#34;&gt;Liyao Xiang&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
