@@ -12,7 +12,7 @@ Bachelor's in [EE](https://ee.sjtu.edu.cn) @ [SJTU](http://en.sjtu.edu.cn/) (202
 
 Master's in [CS](https://www.cs.sjtu.edu.cn/en/) @ [SJTU](http://en.sjtu.edu.cn/) (2024-2027).
 
-Research interests: Computer Architecture, AI4EDA.
+Research interests: Computer Architecture, AI4EDA, LLM.
 
 Check out my [CV](/pdf/cv.pdf), [Undergraduate Transcript](/pdf/transcript.pdf).
 
