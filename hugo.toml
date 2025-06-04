@@ -1,4 +1,5 @@
-baseURL = "http://localhost/"
+baseURL = "https://www.zedongpeng.com/"
+
 languageCode = "en-us"
 title = "Zedong Peng"
 theme = "papermod"

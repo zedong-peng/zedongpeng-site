@@ -7,6 +7,7 @@ go to [zedongpeng.com](https://zedongpeng.com) to see the template site.
 # install hugo: apt (On linux) install hugo or (On Mac) brew install hugo
 git clone https://github.com/zedong-peng/zedongpeng-site
 cd zedongpeng-site
+# edit config.toml, change baseURL to baseURL = "http://localhost/"
 hugo server -D
 # open http://localhost:1313/ 
 # you can edit meanwhile the site is running 
