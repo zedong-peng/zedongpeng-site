@@ -1,8 +1,8 @@
 ---
 title: 探索更大的世界
-subtitle: 留学申请路上的记录
+subtitle: 留学
 date: 2023-07-09T02:56:26.988Z
-summary: 留学申请记录
+summary: 留学
 draft: false
 featured: false
 categories:

@@ -1,7 +1,8 @@
 ---
 title: "Home"
 ---
-<!-- <img src="/images/avatar.jpg" width="200" alt="Zedong Peng" style="float: left; margin-right: 20px;" /> -->
+
+
 ### Hi, I'm Zedong!
 
 Bachelor's in [EE](https://ee.sjtu.edu.cn) @ [SJTU](http://en.sjtu.edu.cn/) (2020-2024).

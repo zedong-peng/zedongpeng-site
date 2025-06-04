@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/phd/</link>
       <pubDate>Sun, 09 Jul 2023 02:56:26 +0000</pubDate>
       <guid>http://localhost:1313/blog/phd/</guid>
-      <description>留学申请记录</description>
+      <description>留学</description>
     </item>
     <item>
       <title>Notes on Proofs, Arguments, and Zero-Knowledge</title>
@@ -29,7 +29,8 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Zedong Peng (彭则栋)&lt;/strong&gt;, currently pursuing a master&amp;rsquo;s degree at &lt;strong&gt;SJTU&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;img src=&#34;http://localhost:1313/images/avatar.jpg&#34; width=&#34;200&#34; alt=&#34;Zedong Peng&#34; style=&#34;float: left; margin-right: 20px;&#34; /&gt;
+&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Zedong Peng (彭则栋)&lt;/strong&gt;, currently pursuing a master&amp;rsquo;s degree at &lt;strong&gt;SJTU&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
